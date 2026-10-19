@@ -9,7 +9,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddMvc(option => option.Filters.Add(typeof(ExceptionFilter));
+builder.Services.AddMvc(option => option.Filters.Add(typeof(ExceptionFilter)));
 
 var app = builder.Build();
 
