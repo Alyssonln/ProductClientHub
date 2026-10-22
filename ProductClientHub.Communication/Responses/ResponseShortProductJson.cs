@@ -1,5 +1,7 @@
 ﻿namespace ProductClientHub.Communication.Responses;
 
-internal class ResponseShortProductJson
+public class ResponseShortProductJson
 {
+    public Guid Id { get; set; }
+    public string Name { get; set; } = string.Empty;
 }
