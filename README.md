@@ -91,4 +91,4 @@ Com a aplicação rodando, acesse a documentação interativa no Swagger em `htt
 
 ## Autor
 
-**Alysson Nunes** · [GitHub](https://github.com/Alyssonln) · [LinkedIn](COLE_AQUI_O_LINK_DO_SEU_LINKEDIN)
+**Alysson Nunes** · [GitHub](https://github.com/Alyssonln) · [LinkedIn](https://www.linkedin.com/in/alysson-nunes/?isSelfProfile=true)
